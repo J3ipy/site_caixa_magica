@@ -12,7 +12,7 @@
   --text-color-light: hsl(var(--hue-color), 4%, 65%);
   --white-color :#ee962e;
   --body-color: white;
-  --container-color: rgb(223, 223, 244);
+  --container-color: rgb(234, 234, 236);
   --text-gradient: linear-gradient(hsl(var(--hue-color), 4%, 24%), hsl(var(--hue-color), 4%, 8%));
   --scroll-thumb-color: hsl(var(--hue-color), 4%, 16%);
   --scroll-thumb-color-alt: hsl(var(--hue-color), 4%, 20%);
@@ -456,7 +456,7 @@ img {
 }
 
 .footer__logo {
-  width: 8rem;
+  width: 7rem;
 }
 
 .footer__title {
@@ -603,9 +603,9 @@ img {
     grid-template-columns: .6fr 1fr;
   }
   .case__img {
-    width: 220px;
+    width: 200px;
     top: -2rem;
-    left: -3rem;
+    left: -2rem;
   }
   .case__data {
     padding: 0;
